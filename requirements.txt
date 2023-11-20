@@ -1,0 +1,9 @@
+numpy
+pandas
+plotly
+pyarrow
+requests
+scikit-image
+scipy
+sentence-transformers
+umap-learn

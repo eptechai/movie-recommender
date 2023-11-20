@@ -1,0 +1,11 @@
+# data
+data/
+
+# venv
+venv/
+
+# mac devs
+.DS_Store
+
+# ipynb
+*.ipynb
