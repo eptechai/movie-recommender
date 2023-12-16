@@ -1,5 +1,9 @@
 # data
 data/
+models/
+notebook/data/
+notebook/models/
+
 
 # venv
 venv/
